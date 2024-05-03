@@ -15,7 +15,7 @@ def content_gap_analysis(keywords, mean_interest):
 
 # Main function
 def main():
-    st.image("/watr.seo.png", use_column_width=200) 
+    st.image("/watr.seo.png", width=200) 
     st.title("Watr.seo : Content Gap Analysis Tool")
 
     # User input for keywords
